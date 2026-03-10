@@ -1,0 +1,2 @@
+# odoo-student-manager
+odoo
